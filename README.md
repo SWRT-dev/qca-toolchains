@@ -13,3 +13,5 @@
 7. `sudo ln -sf $(pwd)/toolchain-arm_cortex-a7_gcc-5.2.0_musl_eabi /opt/`
 
 8. `sudo ln -sf $(pwd)/toolchain-aarch64_cortex-a53+neon-vfpv4_gcc-8.3.0_musl /opt/`
+
+9. `sudo ln -sf $(pwd)/toolchain-arm_cortex-a7+neon-vfpv4_gcc-8.3.0_musl_eabi /opt/`
